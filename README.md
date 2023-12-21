@@ -35,7 +35,9 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcdque](https://github.com/Lokesh23001615/GCD-of-two-numbers/assets/144979337/bd63c733-edbf-49b7-9e02-9a56b8dfbf71)
+
+
 
 ![Alt text](<GCD of two numbers.png>)
 ## Result:
